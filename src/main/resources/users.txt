@@ -1,4 +1,5 @@
-firstName,lastName,phoneNumber
-Anna,Kaja,123456789
-Jan,Kowalski,987654321
-Anna,Nowak,987321654
+firstName,lastName,phoneNumber,city,street,flatNumber
+Anna,Kaja,123456789,Poznan,sw Marcin,3
+Jan,Kowalski,987654321,Poznan,Naramowicka,5
+Anna,Nowak,987321654,Warszawa,Nepodleglosci 17,3
+
