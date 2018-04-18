@@ -1,0 +1,4 @@
+firstName,lastName,phoneNumber
+Anna,Kaja,123456789
+Jan,Kowalski,987654321
+Anna,Nowak,987321654
